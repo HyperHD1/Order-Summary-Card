@@ -15,10 +15,10 @@ body{
     height: 550px;
     font-family: 'Red Hat Display', sans-serif;
     border-radius: 20px;
-    margin-left: 400px;
+    margin-left: 460px;
     background-color: white;
     display: inline-block;
-    margin-top: 20px;
+    margin-top: 45px;
 }
 .title{
     text-align: center;
