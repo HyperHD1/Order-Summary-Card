@@ -3,6 +3,9 @@ body{
     background-repeat: no-repeat;
     background-position-y: -100px;
     background-color: hsl(225, 100%, 94%);
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
 }
 
 .pic{
@@ -15,10 +18,8 @@ body{
     height: 550px;
     font-family: 'Red Hat Display', sans-serif;
     border-radius: 20px;
-    margin-left: 460px;
     background-color: white;
     display: inline-block;
-    margin-top: 45px;
 }
 .title{
     text-align: center;
